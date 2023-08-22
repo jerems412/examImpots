@@ -1,5 +1,4 @@
 <h1>Exam JEE ISI 2023 S2</h1>
-<br>
 <h2>Home</h2>
 <img src="/screenshots/s1.png" />
 <h2>Add declarant</h2>
